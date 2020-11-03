@@ -1,2 +1,2 @@
-# Code Blog
-written in .md
+# Initial page
+
