@@ -113,5 +113,3 @@ Well, if you are wondering why anything of these programming languages hasn’t 
 I think that’s the major reason why they aren’t famous, but that doesn’t mean industries aren’t betting on them. All these languages have gotten more and more attention from companies as compared to other modern programming languages. But I think it’s safe to say, you so start learning them now, 4–5 years in future, you will definitely have an earlier adoption advantage.
 
 **I hope you like this article !**
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>

@@ -74,5 +74,3 @@ It’s not that you completely cannot use external packages, yes you can, but yo
 Nonetheless, Golang is an amazing programming language. Golang developers are among the highest-paid developer in the industry, it’s also becoming an industry favorite language when it comes to doing real-time data analytics and data science work, deploying production-ready ML models, Yes, you heard \(or read it\) write. It’s best-suited use it to write scalable, high-performance back-end that can you heavy data lifting.
 
 I hope you like this article !
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>

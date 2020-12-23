@@ -109,5 +109,3 @@ Thus before running through the second iteration of the loop, it clears out the 
 Well thats it’s, take a look around the the runtime package or run your own programs with this compiler flag and see visually where is slows down
 
 I hope you like this article !
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>

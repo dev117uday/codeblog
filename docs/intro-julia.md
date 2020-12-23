@@ -85,5 +85,3 @@ Julia was designed from the start for scientific and numerical computation, henc
 As of June 2020, Julia is a relatively new programming language. More and more researchers around the world are considering Julia. In my opinion, anyone aspiring in the field of data science and machine learning should definitely learn about Julia, because it’s an amazing programming language they capabilities like no others.
 
 I hope you like this article !
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>

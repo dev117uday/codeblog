@@ -94,5 +94,3 @@ $ npm run dev
 ```
 
 I hope you like this article !
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>

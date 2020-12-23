@@ -89,5 +89,3 @@ Industry adoption
 It’s the systems programming language in the future where it will replace C/C++ first in the world of networking and embedded systems, providing high-performance applications.
 
 I hope you like this article !
-
-<a href="../index.md"><button class="xbutton">Go Back</button></a>
