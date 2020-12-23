@@ -40,9 +40,9 @@ These programming languages were created to overcome the long list of features a
 
 * The industry has been using PROM, but there was nothing that exists when it comes to combining simplicity and performance of all. Julia is fast as C and simple as R. Julia can do everything python, R, octave, Matlab can do. Matlab was designed was for technical computing, but is not open-source, that’s were octave tries to cover the gap, R was designed for statistical computing, python jumps in because its a really good general-purpose programming language and has really good interface, hence using DS and ML libraries are easy. If you take a close look, all of them are trying to achieve the same thing. But now the industry is stuck using all these different things that Julia alone can do.
 * Everyone’s favorite C/C++ is cool and amazing but it is a huge headache for companies when it comes to writing it safely. C/C++ is hard, which makes writing memory-safe code in C/C++ even harder.
-* [Memory Issues in C++](https://www.chromium.org/Home/chromium-security/memory-safety)
+* Read more about memory issue here : [Memory Issues in C++](https://www.chromium.org/Home/chromium-security/memory-safety)
 * Because we need the high-performance at all cost, the industry is stuck with them, and though they have served pretty well up till now, problems they create is costing us billions of dollars. Money wasted in the world because of these issues is constantly growing.
-* [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/)
+* Read this : [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/)
 * This is where Rust comes in. It promises safety and great concurrency support with “zero cost to performance”
 * Java, the language that dominates in the software industry, has now aged and isn’t able to keep in any field. Android has Kotlin, Flutter, React Native to replace it, and more and more apps/services move to electrons and PWA’s, Java is on the decline. But one field where it still holds its crown is the server-side.
 * Though Node.js opposed a great threat, Golang promises to replace java completely. With a better garbage collector, high performance, and great concurrency, it can solve almost all Java problems.
@@ -95,7 +95,9 @@ To be honest with you, I am just a student who has partial knowledge about indus
 * [Why Amazon, Disney and Uber are courting this two-year-old startup](https://economictimes.indiatimes.com/small-biz/startups/why-amazon-disney-and-uber-are-courting-this-two-year-old-startup-julia-computing-viral-shah/articleshow/60169227.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
 * [The Infancy of Julia: An Inside Look at How Traders and Economists Are Using the Julia Programming Language](https://www.waterstechnology.com/trading-tools/2476518/the-infancy-of-julia-an-inside-look-at-how-traders-and-economists-are-using-the-julia-programming-language)
 
-**Future of these programming languages** Well, if you are wondering why anything of these programming languages hasn’t been in headlines all over the internet is because :
+**Future of these programming languages** 
+
+Well, if you are wondering why anything of these programming languages hasn’t been in headlines all over the internet is because :
 
 * They are programming languages, not frameworks.
 * They are relatively new
