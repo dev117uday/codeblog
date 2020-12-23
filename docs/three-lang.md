@@ -2,6 +2,13 @@
 description: It was amazing!
 ---
 
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # My experience of learning 3 programming languages in 3 weeks.
 
 **Disclaimer: I don’t claim to be an expert in any of them. This was just a thought experiment.**
@@ -65,7 +72,8 @@ Well, looking at the few lines of code, it’s easy to tell that these modern pr
 
 Neither writing verbose code \(java\) nor purely in symbols \(C++\) is fun, from anyone learning to code to professional developer. Rust, apart from amazing features it provides, balances between both the properties and that’s why its the most loved programming language according to stack overflow 2020 survey. Even Go is not far behind.
 
-![Loved Programming languages](./assets/love-lang.png)
+<img src="./assets/love-lang.png" class="center">
+
 
 ### Performance comparison with existing ones
 
@@ -73,7 +81,7 @@ I have an in-depth performance comparison in articles about each.
 
 Here is a quick overview :
 
-![Performance Languages](./assets/julia_benchmark.png)
+<img src="./assets/julia_benchmark.png" class="center">
 
 ### Current Industry usage
 
@@ -106,3 +114,4 @@ I think that’s the major reason why they aren’t famous, but that doesn’t m
 
 **I hope you like this article !**
 
+<a href="../index.md"><button class="xbutton">Go Back</button></a>

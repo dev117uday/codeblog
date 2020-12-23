@@ -4,9 +4,16 @@ description: >-
   statistics, and machine learning.
 ---
 
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # Julia: A fresh approach to technical computing
 
-![Julia intro image](./assets/julia.jpeg)
+<img src="./assets/julia.jpeg" class="center"> 
 
 For those of you who don’t know what Julia is, here is a quick and short intro :
 
@@ -19,7 +26,8 @@ For those of you who don’t know what Julia is, here is a quick and short intro
 
 In the world where Python has become the to-go language to Data Science and ML, what brings us to Julia? Well consider this :
 
-![Julia Benchmark](./assets/julia_benchmark.png)
+
+<img src="./assets/julia_benchmark.png" class="center"> 
 
 [https://julialang.org/benchmarks/](https://julialang.org/benchmarks/)
 
@@ -77,3 +85,5 @@ Julia was designed from the start for scientific and numerical computation, henc
 As of June 2020, Julia is a relatively new programming language. More and more researchers around the world are considering Julia. In my opinion, anyone aspiring in the field of data science and machine learning should definitely learn about Julia, because it’s an amazing programming language they capabilities like no others.
 
 I hope you like this article !
+
+<a href="../index.md"><button class="xbutton">Go Back</button></a>

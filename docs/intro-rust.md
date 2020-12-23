@@ -2,9 +2,16 @@
 description: 'Author: Uday Yadav'
 ---
 
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # Rust: New Systems Programming Language
 
-![Rust](./assets/rust.jpeg)
+<img src="./assets/rust.jpeg" class="center">
 
 For those of you who don’t know what Rust is, here is a quick and short intro
 
@@ -18,7 +25,7 @@ In the world where C/C++ powers everything we know, what brings us to Rust? Well
 
 Take a look at this graph:
 
-![Rust graph](./assets/rust_graph.png)
+<img src="./assets/rust_graph.png" class="center">
 
 70% of security issues that Microsoft encounter are due to memory unsafety. Why this happens? Because writing memory-safe code is hard. It’s not that these issues are left neglected at the time of production and testing, but due to the reason, it’s so difficult to write and catch errors. That’s why languages like Python and JavaScript were created, to abstract out these complexities and to empower more developers to create stuff. But they come with performance penalties and run-time overheads. This is a place where Rust comes in.
 
@@ -33,10 +40,12 @@ Example:
 * Declaring Variable:
 
   ```rust
-  let variable: i64 = 2147483748;// defining datatype is optional
+  let variable: i64 = 2147483748;
+  // defining datatype is optional
   Declaring functions:
-  fn logger (x: String) -> String {    // some functionality    some_string 
-   // don't have to explicitly write return}
+  fn logger (x: String) -> String {    
+  // some functionality    some_string 
+  // don't have to explicitly write return}
   ```
 
 * **Performance**: When it comes to performance, there should be no doubt. Rust is a compiled language; thus, it spits out executable binary. From accessing registers in CPU to multi-threading, Rust can squeeze outperformance from every part of the computer.
@@ -46,20 +55,12 @@ Example:
 
 **Here are a few examples of compiler complaining: \(source Google images\)**
 
-Source Google Images   
- 
-
-![rust](./assets/rust_1.png)
-
-Source Google Images   
- 
-
-![rust](./assets/rust_2.png)
-
-Source Google Images   
- 
-
-![rust](./assets/rust_3.png)
+<img src="./assets/rust_1.png" class="center"> 
+<p class="center">source : google </p> 
+<img src="./assets/rust_2.png" class="center"> 
+<p class="center">source : google </p> 
+<img src="./assets/rust_3.png" class="center"> 
+<p class="center">source : google </p> 
 
 ### Things I don’t like about Rust
 
@@ -88,3 +89,5 @@ Industry adoption
 It’s the systems programming language in the future where it will replace C/C++ first in the world of networking and embedded systems, providing high-performance applications.
 
 I hope you like this article !
+
+<a href="../index.md"><button class="xbutton">Go Back</button></a>

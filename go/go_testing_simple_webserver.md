@@ -1,8 +1,15 @@
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # Go 101 : Testing simple Go server
 
 Code we will be testing :
-
 `main.go`
+
 ```go
 package main
 
@@ -46,11 +53,13 @@ if err != nil {
 ```
 
 - To record the response from the writer
+ 
 ```go
 rec := httptest.NewRecorder()
 ```
 
 - To verify
+
 ```go
 helloWorldEndPoint(rec, req)
 
@@ -97,3 +106,5 @@ func TestHandler(t *testing.T) {
 ```
 
 I hope you like this article !
+
+<a href="../index.md"><button class="xbutton">Go Back</button></a>

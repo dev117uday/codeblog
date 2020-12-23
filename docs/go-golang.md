@@ -2,11 +2,19 @@
 description: It's AWESOME
 ---
 
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # Go Golang Go!
 
 If you want to know more about Golang, pelase to go the **Golang section on my notes page** [**here**](https://dev117uday.gitbook.io/notes-md/)
 
-![Golang Cartoon](./assets/golang.jpeg)
+<img src="./assets/golang.jpeg" class="center"> 
+
 
 The hot new server-side high-performance language.
 
@@ -47,7 +55,7 @@ Well it’s not all perfect in Go’s world
 
 Now, to be completely honest, I looked into a ton of resources to find drawbacks in go but could find any reasonable ones \(except for package manager\). Consider reading these comments:
 
-`While having interfaces is great, structs implement interfaces implicitly, not explicitly. This is stated as a strength of Go, but we found that it’s difficult to tell from looking at a struct whether or not it implements an interface. You can only really know by attempting to compile the program. This is fine if the program is small, but not if it’s a medium to large size.`
+    While having interfaces is great, structs implement interfaces implicitly, not explicitly. This is stated as a strength of Go, but we found that it’s difficult to tell from looking at a struct whether or not it implements an interface. You can only really know by attempting to compile the program. This is fine if the program is small, but not if it’s a medium to large size.
 
 One of Go’s main advantages is also one of its weaknesses. Go may be an easy language to pick up, but that brings with it a lack of versatility. Some of the hottest languages on the market pride themselves on their complexity.
 
@@ -66,3 +74,5 @@ It’s not that you completely cannot use external packages, yes you can, but yo
 Nonetheless, Golang is an amazing programming language. Golang developers are among the highest-paid developer in the industry, it’s also becoming an industry favorite language when it comes to doing real-time data analytics and data science work, deploying production-ready ML models, Yes, you heard \(or read it\) write. It’s best-suited use it to write scalable, high-performance back-end that can you heavy data lifting.
 
 I hope you like this article !
+
+<a href="../index.md"><button class="xbutton">Go Back</button></a>

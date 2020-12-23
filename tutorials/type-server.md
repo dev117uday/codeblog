@@ -2,10 +2,16 @@
 description: Things i figured out
 ---
 
+<link href="../style.css" rel="stylesheet">
+<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
+|| 
+<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
+||
+<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
+
 # Getting Started With TypeScript based Express Server
 
-![typescript server intro image](./assets/type-server.jpeg)
-
+<img src="./assets/type-server.jpeg" class="center">
 
 You can simply get started with my boilerplate on [GitHub](https://github.com/dev117uday/template-archieve/tree/main/boiler-plate-ts-node-server)
 
@@ -89,3 +95,4 @@ $ npm run dev
 
 I hope you like this article !
 
+<a href="../index.md"><button class="xbutton">Go Back</button></a>
