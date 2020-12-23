@@ -65,7 +65,7 @@ Well, looking at the few lines of code, it’s easy to tell that these modern pr
 
 Neither writing verbose code \(java\) nor purely in symbols \(C++\) is fun, from anyone learning to code to professional developer. Rust, apart from amazing features it provides, balances between both the properties and that’s why its the most loved programming language according to stack overflow 2020 survey. Even Go is not far behind.
 
-![Loved Programming languages](../assets/love-lang.png)
+![Loved Programming languages](./assets/love-lang.png)
 
 ### Performance comparison with existing ones
 
@@ -73,7 +73,7 @@ I have an in-depth performance comparison in articles about each.
 
 Here is a quick overview :
 
-![Performance Languages](../assets/julia_benchmark.png)
+![Performance Languages](./assets/julia_benchmark.png)
 
 ### Current Industry usage
 

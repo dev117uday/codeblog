@@ -1,2 +1,1 @@
-# codeblog
-Code Blog
+# Code Blog

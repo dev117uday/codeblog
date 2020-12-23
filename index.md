@@ -4,5 +4,5 @@
 * [Rust: New Systems Programming Language](./docs/intro-rust.md)
 * [Go Golang Go!](./docs/go-golang.md)
 * [Julia: A fresh approach to technical computing](./docs/intro-julia.md)
-* [Getting Started With TypeScript based Express Server](./docs/type-server.md)
+* [Getting Started With TypeScript based Express Server](./tutorials/type-server.md)
 

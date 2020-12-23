@@ -4,9 +4,9 @@ description: It's AWESOME
 
 # Go Golang Go!
 
-If you want to know more about Golang, pelase to go the **Golang section on my notes page** [**here**](https://dev117uday.github.io/notes-md/)
+If you want to know more about Golang, pelase to go the **Golang section on my notes page** [**here**](https://dev117uday.gitbook.io/notes-md/)
 
-![Golang Cartoon](../assets/golang.jpeg)
+![Golang Cartoon](./assets/golang.jpeg)
 
 The hot new server-side high-performance language.
 
@@ -14,13 +14,13 @@ For those of you who don’t know what Golang is, here is a quick and short intr
 
 * Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
 * Go is syntactically similar to C.
-* It has memory safety \( uses a garbage collector \), structural typing, and CSP \[communicating sequential processes\]-style concurrency.
+* It has memory safety ( uses a garbage collector ), structural typing, and CSP [communicating sequential processes]-style concurrency.
 
 In simple words, Golang is like Java in terms of processing but written like C
 
 #### Why Golang?
 
-We live in a world where Java handles the majority of critical processes, but the thing is, java is old getting old, in the sense that writing concurrent programs is difficult, as more and more servers are UNIX based, shell scripts to manage servers is limit \(that’s where python came in \), poorly implemented generics and no support for unsigned data-types, has hidden relationship between code and hardware. This is where Golang comes in.
+We live in a world where Java handles the majority of critical processes, but the thing is, java is old getting old, in the sense that writing concurrent programs is difficult, as more and more servers are UNIX based, shell scripts to manage servers is limit (that’s where python came in ), poorly implemented generics and no support for unsigned data-types, has hidden relationship between code and hardware. This is where Golang comes in.
 
 #### Why I love Golang
 
@@ -65,5 +65,4 @@ It’s not that you completely cannot use external packages, yes you can, but yo
 
 Nonetheless, Golang is an amazing programming language. Golang developers are among the highest-paid developer in the industry, it’s also becoming an industry favorite language when it comes to doing real-time data analytics and data science work, deploying production-ready ML models, Yes, you heard \(or read it\) write. It’s best-suited use it to write scalable, high-performance back-end that can you heavy data lifting.
 
-I hope you like this article
-
+I hope you like this article !

@@ -6,22 +6,20 @@ description: >-
 
 # Julia: A fresh approach to technical computing
 
-If you want to know more about julia, pelase to go the **Julia section on my notes page** [**here**](https://dev117uday.github.io/notes-md/)
-
-![Julia intro image](../assets/julia.jpeg)
+![Julia intro image](./assets/julia.jpeg)
 
 For those of you who don’t know what Julia is, here is a quick and short intro :
 
-* Julia is a high-level, high-performance, dynamic programming language, designed and developed by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
-* While it is a general-purpose language and can be used to write any application, many of its features are well-suited for numerical analysis and computational science.
-* Julia proves to be faster than Python as it keeps reaching the speed of C, puts up a pretty impressive performance against python.
-* Julia is simpler than python, yet as fast even faster than C.
+- Julia is a high-level, high-performance, dynamic programming language, designed and developed by Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
+- While it is a general-purpose language and can be used to write any application, many of its features are well-suited for numerical analysis and computational science.
+- Julia proves to be faster than Python as it keeps reaching the speed of C, puts up a pretty impressive performance against python.
+- Julia is simpler than python, yet as fast even faster than C.
 
 ### Why Julia
 
 In the world where Python has become the to-go language to Data Science and ML, what brings us to Julia? Well consider this :
 
-![Julia Benchmark](../assets/julia_benchmark.png)
+![Julia Benchmark](./assets/julia_benchmark.png)
 
 [https://julialang.org/benchmarks/](https://julialang.org/benchmarks/)
 
@@ -79,4 +77,3 @@ Julia was designed from the start for scientific and numerical computation, henc
 As of June 2020, Julia is a relatively new programming language. More and more researchers around the world are considering Julia. In my opinion, anyone aspiring in the field of data science and machine learning should definitely learn about Julia, because it’s an amazing programming language they capabilities like no others.
 
 I hope you like this article !
-

@@ -4,13 +4,13 @@ description: 'Author: Uday Yadav'
 
 # Rust: New Systems Programming Language
 
-![Rust](../assets/rust.jpeg)
+![Rust](./assets/rust.jpeg)
 
 For those of you who don’t know what Rust is, here is a quick and short intro
 
-* Rust was originally designed by Graydon Hoare at Mozilla Research, yes, the company that makes Mozilla web browser.
-* Rust is a programming language focused on performance and safety, especially safe concurrency. - Rust provides memory safety without using garbage collection \(like Golang\).
-* It’s a systems programming language, hence it can run as fast as C and sometimes even faster.
+- Rust was originally designed by Graydon Hoare at Mozilla Research, yes, the company that makes Mozilla web browser.
+- Rust is a programming language focused on performance and safety, especially safe concurrency. - Rust provides memory safety without using garbage collection  (like Golang ).
+- It’s a systems programming language, hence it can run as fast as C and sometimes even faster.
 
 ### Why Rust
 
@@ -18,7 +18,7 @@ In the world where C/C++ powers everything we know, what brings us to Rust? Well
 
 Take a look at this graph:
 
-![Rust graph](../assets/rust_graph.png)
+![Rust graph](./assets/rust_graph.png)
 
 70% of security issues that Microsoft encounter are due to memory unsafety. Why this happens? Because writing memory-safe code is hard. It’s not that these issues are left neglected at the time of production and testing, but due to the reason, it’s so difficult to write and catch errors. That’s why languages like Python and JavaScript were created, to abstract out these complexities and to empower more developers to create stuff. But they come with performance penalties and run-time overheads. This is a place where Rust comes in.
 
@@ -49,17 +49,17 @@ Example:
 Source Google Images   
  
 
-![rust](../assets/rust_1.png)
+![rust](./assets/rust_1.png)
 
 Source Google Images   
  
 
-![rust](../assets/rust_2.png)
+![rust](./assets/rust_2.png)
 
 Source Google Images   
  
 
-![rust](../assets/rust_3.png)
+![rust](./assets/rust_3.png)
 
 ### Things I don’t like about Rust
 
@@ -87,3 +87,4 @@ Industry adoption
 
 It’s the systems programming language in the future where it will replace C/C++ first in the world of networking and embedded systems, providing high-performance applications.
 
+I hope you like this article !
