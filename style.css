@@ -10,14 +10,14 @@
     height: 40px;
     width: 140px;
     color: greenyellow;
-    background-color: black;
+    background-color: #34568b;
     font-size: 22px;
     border-radius: 12px;
 }
 
 .xbutton:hover {
-    color: yellow;
-    background-color: #808080;
+    color: #ff6f61;
+    background-color: #f7cac9;
 }
 
 .xbutton:focus {outline:0;}
