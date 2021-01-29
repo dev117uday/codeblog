@@ -36,6 +36,9 @@
 * Jul 30 >> [Converting a website to PWA in few minutes](https://dev117uday.medium.com/converting-website-to-pwa-in-few-minutes-be730e4bdf3c)
 * Jul 20 >> [Everything’ i did to get vs code and wsl to work together for python :)](https://dev117uday.medium.com/everythin-i-did-to-get-vs-code-and-wsl-to-work-together-for-python-66a6dbf5aa7e)
 
+# Tutorials
 
+### June 2020
+* Jun 29 >> [URI | URL | URL](./info_bank/uri.md)
 
 **Thanks for visiting** 
