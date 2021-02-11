@@ -18,6 +18,8 @@
 ### December 2020
 * Dec 1 >> [Go 101 : Testing simple Go server](./go/go_testing_simple_webserver.md)
 * Dec 21 >> [Golang 101 : Looking at when Garbage Collector runs](./go/go_gc_when_it_runs.md)
+### February 2021
+* Feb 12 >> [Things Golang do differently](./go/go_things_go_do_differently.md)
 
 # Tutorials
 
