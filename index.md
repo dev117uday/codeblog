@@ -39,5 +39,6 @@
 
 * Jun '20 >> [Understanding URI](./info_bank/uri.md)
 * April '21 >> [How to Deploy Vue/React on a VM](./info_bank/vue_on_vm.md)
+* Jun '21 >> [Indexing in Databases](./info_bank/indexdb.md)
 
 **Thanks for visiting** 
