@@ -1,3 +1,3 @@
 # Code Blog.md
 
-**Thanks for visiting** 
+**Thanks for visiting** : https://dev117uday.github.io/codeblog/
