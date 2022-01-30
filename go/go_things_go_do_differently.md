@@ -1,17 +1,16 @@
 # Things Golang do differently
-##### weird at first but makes sense
 
-### Formatting
+## Formatting
 - use `gofmt` to format packages
 
-### Commentary
+## Commentary
 - Go uses c like comments `//` or `/* */`
 - Every Function/Struct/Variable that you have to export, name it so that first letter is capital
 - Package name
   - short, concise, evocative
   - the package in src/encoding/base64 is imported as "encoding/base64" but has name base64, not encoding_base64 and not encodingBase64.
 
-### Getters & Setters
+## Getters & Setters
 
 - Go doesn't provide automatic support for getters and setters. There's nothing wrong with providing getters and setters yourself, and it's often appropriate to do so.
 ```go
@@ -21,17 +20,17 @@ if owner != user {
 }
 ```
 
-### Naming
+## Naming
 **Interface Naming**
 By convention, one-method interfaces are named by the method name plus an -er suffix or similar modification to construct an agent noun: Reader, Writer, Formatter, CloseNotifier etc.
 
-### Variable Naming
+## Variable Naming
 - Finally, the convention in Go is to use MixedCaps or mixedCaps rather than underscores to write multi word names
 - In `a :=` declaration a variable v may appear even if it has already been declared, provided:
 this declaration is in the same scope as the existing declaration of v (if v is already declared in an outer scope, the declaration will create a new variable §),
 - The corresponding value in the initialisation is assignable to v, and there is at least one other variable that is created by the declaration
 
-### Indentation
+## Indentation
 ```go
 if i < f() {
     g()
@@ -43,7 +42,7 @@ if i < f()  // wrong!
 }
 ```
 
-### Control Structure
+## Control Structure
 - There is no do or while loop, only a slightly generalised for; switch is much better If. In Go a simple if looks like this:
 ```go
 if x > 0 {
@@ -58,7 +57,7 @@ if err := file.Chmod(0664); err != nil {
 }
 ```
 
-### Re-declaration and Re-assignment
+## Re-declaration and Re-assignment
 The last example in the previous section demonstrates a detail of how the := short declaration form works. The declaration that calls os.Open reads,
 ```go
 f, err := os.Open(name)
@@ -71,7 +70,7 @@ d, err := f.Stat()
 -​ which looks as if it declares d and err. Notice, though, that err appears in both statements. This duplication is legal: err is declared by the first statement, but only re-assigned in the second. This means that the call to f.Stat uses the existing err variable declared above, and just gives it a new value.
 
 
-### Range
+## Range
 - If you're looping over an array, slice, string, or map, or reading from a channel, a range clause can manage the loop.
 ```go
 for key, value := range oldMap {
@@ -94,7 +93,7 @@ for _, value := range array {
 }
 ```
 
-### Switch in Golang
+## Switch in Golang
 - Go's switch is more general than C's.
 - It's therefore possible—and idiomatic—to write an if-else-if-else chain as a switch.
 ```go
@@ -121,7 +120,7 @@ func shouldEscape(c byte) bool {
 }
 ```
 
-### Type Switch
+## Type Switch
 - A switch can also be used to discover the dynamic type of an interface variable
 ```go
 var t interface{}
@@ -140,7 +139,7 @@ case *int:
 }
 ```
 
-### Functions
+## Functions
 - Multiple return values
 ```go
 func squareRoot (num int) (n float, err error)
@@ -150,7 +149,7 @@ func squareRoot (num int) (float, error)
 // named return
 ```
 
-### Defer
+## Defer
 - Go's defer statement schedules a function call (the deferred function) to be run immediately before the function exits.
 ```go
 func fileContent (filename string) (string, error) {

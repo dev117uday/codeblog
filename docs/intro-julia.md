@@ -1,15 +1,3 @@
----
-description: >-
-  Also an amazing programming language for mathematical modeling data science,
-  statistics, and machine learning.
----
-
-<link href="../style.css" rel="stylesheet">
-<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
-|| 
-<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
-||
-<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
 
 # Julia: A fresh approach to technical computing
 

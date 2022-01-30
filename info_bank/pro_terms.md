@@ -1,4 +1,4 @@
-SWE 101 : Programming Terms Explained in simplest form
+# SWE 101 : Programming Terms Explained in simplest form
 
 ![banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pompixb3i6q6c39ac5gb.png)
 

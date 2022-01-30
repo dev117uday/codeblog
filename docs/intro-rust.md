@@ -1,14 +1,3 @@
----
-description: 'Author: Uday Yadav'
----
-
-<link href="../style.css" rel="stylesheet">
-<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
-|| 
-<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
-||
-<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
-
 # Rust: New Systems Programming Language
 
 <img src="./assets/rust.jpeg" class="center">

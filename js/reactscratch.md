@@ -1,10 +1,3 @@
-<link href="style.css" rel="stylesheet">
-<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
-|| 
-<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
-||
-<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
-
 # React.js From Scratch
 
 **Intro:** React is an Open Source view library created and maintained by Facebook. It's a great tool to render the User Interface \(UI\) of modern web applications.

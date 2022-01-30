@@ -1,10 +1,3 @@
-<link href="style.css" rel="stylesheet">
-<a href="https://www.linkedin.com/in/uday-yadav-cs/"><button class="xbutton">Linkedin</button></a>
-|| 
-<a href="https://github.com/dev117uday"><button class="xbutton">GitHub</button></a>
-||
-<a href="https://uday-yadav.web.app/"><button class="xbutton">Resume</button></a>
-
 # Redis 101
 
 _'#' are not comments in redis, they are here just to explain the command_
